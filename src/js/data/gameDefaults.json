@@ -1,0 +1,26 @@
+{
+    "colors": {
+        "players": {
+            "0": "rgb(43, 169, 250)",
+            "1": "rgb(251, 79, 80)"
+        }
+    },
+    "player": {
+        "canvas": {
+            "width": 1200,
+            "height": 705
+        }
+    },
+    "field": {
+        "cell": {
+            "width": 32.7,
+            "height": 32.7,
+            "cellmargin": 18
+        },
+        "margins": {
+            "marginleft": 287,
+            "margintop": 17
+        }
+    },
+    "boxHeight": 630
+}
