@@ -13,12 +13,12 @@
     },
     "field": {
         "cell": {
-            "width": 32.7,
-            "height": 32.7,
+            "width": 78.75,
+            "height": 78.75,
             "cellmargin": 18
         },
         "margins": {
-            "marginleft": 287,
+            "marginleft": 440,
             "margintop": 17
         }
     },

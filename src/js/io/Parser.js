@@ -37,13 +37,15 @@ function parseStates(data, settings) {
             cells: _.chain(field)
                 .thru((string) => string.split(/,|;/))
                 .map((cellType, index) => {
-                    const player  = cellType;
-                    const row     = Math.floor(index / 19);
-                    const column  = index % 19;
+                    const piece  = cellType;
+                    const row     = Math.floor(index / 4);
+                    const column  = index % 4;
                     const x       = column * width + marginleft;
                     const y       = row * height + margintop;
                     const key     = row + '-' + column;
-                    return { key, row, column, x, y, width, height, player };
+                    var i = (index+row) % 2;
+                    const background = i == 0 ? "black" : "white";
+                    return { key, row, column, x, y, width, height, piece, background };
                 }).value(),
         };
     });

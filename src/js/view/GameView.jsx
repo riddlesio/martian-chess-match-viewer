@@ -48,184 +48,64 @@ const GameView = component('GameView', function (props) {
                             className="Board-3"
                             points="0 660.52 660 660 660 0 0 0 0 660.52"
                         />
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="21" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(597.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="604.67" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(563.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="570.33" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(529.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="536" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(494.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="501.67" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(460.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="467.33" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(426.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="433" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(391.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="398.67" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(357.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="364.33" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(323.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="330" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(288.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="295.67" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(254.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="261.33" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(220.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="227" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(185.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="192.67" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(151.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="158.33" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(117.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="124" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(82.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="89.67" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(48.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="55.33" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(632.9 11.36)" xlinkHref="#image"/>
-                            <rect className="Board-6" x="639" y="17.49" width="2" height="620"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 11.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="17.49" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 594.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="601.16" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 560.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="566.82" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 526.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="532.49" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 491.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="498.16" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 457.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="463.82" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 423.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="429.49" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 388.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="395.16" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 354.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="360.82" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 320.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="326.49" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 285.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="292.16" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 251.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="257.82" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 217.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="223.49" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 182.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="189.16" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 148.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="154.82" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 114.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="120.49" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 79.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="86.16" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 45.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="51.82" width="620" height="2"/>
-                        </g>
-                        <g className="Board-4">
-                            <use className="Board-5" transform="translate(14.9 629.36)" xlinkHref="#image-2"/>
-                            <rect className="Board-6" x="21" y="635.49" width="620" height="2"/>
-                        </g>
-                        <circle className="Board-7" cx="537.01" cy="327.49" r="7.5"/>
-                        <circle className="Board-7" cx="125" cy="327.49" r="7.5"/>
-                        <circle className="Board-7" cx="331.03" cy="327.49" r="7.5"/>
-                        <circle className="Board-7" cx="331" cy="120.49" r="7.5"/>
-                        <circle className="Board-7" cx="331" cy="533.49" r="7.5"/>
-                        <circle className="Board-7" cx="125" cy="121.51" r="7.5"/>
-                        <circle className="Board-7" cx="125" cy="533.49" r="7.5"/>
-                        <circle className="Board-7" cx="538" cy="533.49" r="7.5"/>
-                        <circle className="Board-7" cx="537" cy="121.51" r="7.5"/>
                         <polygon
                             className="Board-8"
                             points="0 660.38 12.42 672.02 672 671.36 660 659.29 0 660.38"
                         />
                     </g>
                 </symbol>
-                <symbol id="GoGame-cell-player0" viewBox="0 0 37 37">
+                <symbol id="GoGame-cell-pieceQ" viewBox="0 0 37 37">
                     <g>
-                        <circle fill="#4458cc" cx="18.62" cy="18" r="12.5"/>
-                        <circle fill="#6aa2fe" cx="18.5" cy="16" r="12.5"/>
+                        <circle fill="#ff5552" cx="17.42" cy="15.5" r="14.5"/>
                     </g>
                 </symbol>
-                <symbol id="GoGame-cell-player1" viewBox="0 0 37 37">
+				<symbol id="GoGame-cell-pieceD" viewBox="0 0 37 37">
+					<g>
+
+						<polygon
+                            fill="#ff5552"
+                            points="5 18.5 18.5 5 32 18.5 18.5 32 5 18.5"
+                        />
+					</g>
+				</symbol>
+				<symbol id="GoGame-cell-pieceP" viewBox="0 0 37 37">
+					<g>
+						<polygon
+                            fill="#ff5552"
+                            points="10 27 18.5 10 27 27 10 27"
+                        />
+					</g>
+                </symbol>
+                <symbol id="GoGame-cell-pieceq" viewBox="0 0 37 37">
                     <g>
-                        <circle fill="#cc4242" cx="17.71" cy="17.5" r="12.5"/>
-                        <circle fill="#ff5552" cx="17.42" cy="15.5" r="12.5"/>
+                        <circle fill="#6aa2fe" cx="17.42" cy="15.5" r="12.5"/>
                     </g>
+                </symbol>
+				<symbol id="GoGame-cell-pieced" viewBox="0 0 37 37">
+					<g>
+						<polygon
+                            fill="#6aa2fe"
+                            points="5 18.5 18.5 5 32 18.5 18.5 32 5 18.5"
+                        />
+					</g>
+				</symbol>
+				<symbol id="GoGame-cell-piecep" viewBox="0 0 37 37">
+					<g>
+						<polygon
+                            fill="#6aa2fe"
+                            points="10 27 18.5 10 27 27 10 27"
+                        />
+					</g>
+                </symbol>
+				<symbol id="GoGame-background-white" viewBox="0 0 37 37">
+					<g>
+						<rect fill="#eeeeee" x="0" y="0" width="37" height="37"/>
+					</g>
+                </symbol>
+				<symbol id="GoGame-background-black" viewBox="0 0 37 37">
+					<g>
+						<rect fill="#111111" x="0" y="0" width="37" height="37"/>
+					</g>
                 </symbol>
                 <symbol id="GoGame-avatar0" dangerouslySetInnerHTML={{
                     __html: `
